@@ -1197,11 +1197,3 @@ Minimum required: 527.27
 [2023.09.15-21.15.52:606][524]LogD3D12RHI: Error: Memory Info from frame ID 3533:
 [2023.09.15-21.15.52:606][524]LogD3D12RHI: Error: 	Budget:	3367.70 MB
 [2023.09.15-21.15.52:606][524]LogD3D12RHI: Error: 	Used:	2165.36 MB
-[2023.09.15-21.16.20:733][524]LogRHI: Error: Breadcrumbs 'RHIThread'
-
-[2023.09.15-21.16.20:733][524]LogWindows: FPlatformMisc::RequestExit(0, WindowsPlatformCrashContext.ReportGPUCrash)
-[2023.09.15-21.16.20:733][524]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0, WindowsPlatformCrashContext.ReportGPUCrash)
-[2023.09.15-21.16.20:734][524]LogCore: Engine exit requested (reason: Win RequestExit)
-[2023.09.15-21.16.20:739][524]LogWindows: FPlatformMisc::RequestExit(1, D3D12Util.TerminateOnGPUCrash)
-[2023.09.15-21.16.20:739][524]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3, D3D12Util.TerminateOnGPUCrash)
-[2023.09.15-21.16.20:739][524]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
